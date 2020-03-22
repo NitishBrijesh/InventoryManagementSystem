@@ -1,0 +1,9 @@
+package com.ims.nb.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ProductController {
+	
+	
+}
